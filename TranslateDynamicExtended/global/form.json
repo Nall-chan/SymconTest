@@ -1,0 +1,19 @@
+{
+	"actions": [
+		{
+			"type": "Label",
+			"label": "Static translation from form.json"
+		},
+		{
+			"type": "Button",
+			"label": "Run $this->Translate for test",
+			"onClick": "echo TLDE_DoText($id);"
+		}
+	],
+	"translations": {
+		"de": {
+			"Static translation from form.json": "Statische Übersetzung aus der form.json",
+			"Run $this->Translate for test": "Starte $this->Translate zum testen"
+		}
+	}
+}

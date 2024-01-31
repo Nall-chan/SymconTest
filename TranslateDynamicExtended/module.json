@@ -1,0 +1,14 @@
+{
+	"id": "{2BAD3219-92FC-462F-9C9A-FD1864723705}",
+	"name": "TranslateDynamicExtended",
+	"type": 3,
+	"vendor": "",
+	"aliases":
+	[
+		"Translate Dynamic Extended (en)"
+	],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "TLDE"
+}
